@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\TestGitHub\TestGitHub\bin\Debug\net8.0\TestGitHub.exe
+C:\Users\1\source\repos\TestGitHub\TestGitHub\bin\Debug\net8.0\TestGitHub.deps.json
+C:\Users\1\source\repos\TestGitHub\TestGitHub\bin\Debug\net8.0\TestGitHub.runtimeconfig.json
+C:\Users\1\source\repos\TestGitHub\TestGitHub\bin\Debug\net8.0\TestGitHub.dll
+C:\Users\1\source\repos\TestGitHub\TestGitHub\bin\Debug\net8.0\TestGitHub.pdb
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.AssemblyInfo.cs
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.dll
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\refint\TestGitHub.dll
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.pdb
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\TestGitHub.genruntimeconfig.cache
+C:\Users\1\source\repos\TestGitHub\TestGitHub\obj\Debug\net8.0\ref\TestGitHub.dll
