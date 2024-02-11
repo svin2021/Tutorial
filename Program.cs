@@ -3,5 +3,6 @@
     static void Main()
     {
         Console.WriteLine("HelloWorld");
+        Console.WriteLine("HelloNight");
     }
 }
